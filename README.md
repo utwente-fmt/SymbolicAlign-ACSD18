@@ -2,8 +2,7 @@
 Symbolically Aligning Observed and Modelled Behaviour
 ===
 
-This repository hosts the experiments and results for the paper and provides a
-short guide on how to install the tools and reproduce the results.
+This repository hosts the results for the paper.
 
 Please note that all experiments in the paper were performed on an
 Intel Core<sup>TM</sup> i7-4710MQ processor with 2.50GHz and 7.4Gib memory,
