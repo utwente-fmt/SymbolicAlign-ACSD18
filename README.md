@@ -51,7 +51,7 @@ to blow up.  Based on our experiments we conclude that the techniques are
 complementary, since there is a significant number of  cases where A*
 outperforms the symbolic technique and vice versa.
 
-Installation
+Implementation
 ---
 
 The source code for the Symbolic alignment algorithm is obtained by the
@@ -59,8 +59,9 @@ following command:
 * `$ git clone git@github.com:vbloemen/ltsmin.git -b acsd18 --recursive`
 
 If you experience any issues with the installation please consult the [LTSmin] 
-website for further instructions. Otherwise, please contact the first author
-([Vincent Bloemen](mailto:v.bloemen@utwente.nl)) for further help.
+website for further instructions. Otherwise, or if you would like help to
+repeat the experiments please contact the first author ([Vincent
+Bloemen](mailto:v.bloemen@utwente.nl)) for further help.
 
 Data
 ---
