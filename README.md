@@ -66,8 +66,8 @@ Bloemen](mailto:v.bloemen@utwente.nl)) for further help.
 Data
 ---
 
-All data used in the paper is available at the 4TU data centre, with the DOI:
-10.4121/uuid:a6709ee4-2aa3-49a3-92db-247e8b5bf340 (under verification).
+All data used in the paper is available at the 4TU data centre:
+https://doi.org/10.4121/uuid:a6709ee4-2aa3-49a3-92db-247e8b5bf340
 
 
 [LTSmin]: http://fmt.cs.utwente.nl/tools/ltsmin/
