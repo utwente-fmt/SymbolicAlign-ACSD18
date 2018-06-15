@@ -51,7 +51,7 @@ to blow up.  Based on our experiments we conclude that the techniques are
 complementary, since there is a significant number of  cases where A&ast;
 outperforms the symbolic technique and vice versa.*
 
-## Installation
+Installation
 ---
 We provide installation details below for a Linux system (we tested this on
 Debian Stretch 9).
